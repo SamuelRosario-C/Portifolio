@@ -126,6 +126,7 @@ section h2{
     font-weight: 500;
     font-size: 14px;
     color: #dce0e6;
+    
 }
 
 .buttom-contect {
@@ -137,15 +138,14 @@ section h2{
 
 /* 2 section */
 
-.sobre-mim {
+.aboutMe {
     padding: 0px 250px 0px 250px;
     text-align: center;
     margin: 181px 0 100px 0;
 }
 
-.sobre-mim h2, p{
+.aboutMe h2, .aboutMe p{
     color: #dce0e6;
-    margin-bottom: 20px;
 }
 
 
@@ -235,7 +235,7 @@ section h2{
     width: 300px; 
     height: 130px;
 }
-.servicos {
+.containerServices {
     display: flex;
     justify-content: space-between;
     width: 70%;
@@ -243,7 +243,7 @@ section h2{
     margin: 35px 0 250px;
 }
 
-.info-servicos {
+.info-services {
     background: #2b4c7e;
     width: 100vw;
     height: 30vh;
@@ -252,7 +252,7 @@ section h2{
 
 }
 
-.info-servicos p{
+.info-servicees p{
     padding-top: 15px;
     color: #dce0e6;
     font-style: bold;
@@ -265,7 +265,7 @@ section h2{
     margin: 35px 0 35px 0;
 }
 
-.fundo-skills{
+.icon-skills{
     background-color: #2b4c7e;
     padding: 15px;
     border-radius: 5px;
